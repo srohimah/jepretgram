@@ -32,7 +32,8 @@ export const store = new Vuex.Store({
         url: 'http://localhost:3000/photos/',
         data: {
           caption: payload.caption,
-          photo: payload.photo
+          photo: payload.photo,
+          userId: localStorage.userId
         },
         headers: {
           token: localStorage.tokenUser

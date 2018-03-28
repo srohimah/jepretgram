@@ -28,7 +28,6 @@
 import signup from '@/components/Signup'
 import signin from '@/components/Signin'
 import upload from '@/components/Upload'
-import router from '../router'
 
 export default {
   components: {
@@ -44,7 +43,6 @@ export default {
   methods: {
     logout () {
       localStorage.clear()
-      router.push('/')
     }
   }
 }

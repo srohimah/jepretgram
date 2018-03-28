@@ -36,12 +36,13 @@ export default {
       photos: {
         caption: '',
         photo: '',
-        user: localStorage.userId
+        userId: localStorage.userId
       }
     }
   },
   methods: {
     upload (photos) {
+      console.log(photos)
       this.$store.dispatch('upload', photos)
     }
   }
