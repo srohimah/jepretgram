@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "first-deploy-198005",
+  "private_key_id": "8ede37e4a4108cc84bde321f91ee3c28f45ea5f8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCjWrNv0LvmS4m8\niwdKkKR4zXaasUgLj5hOLEe0AMufhilKZJX0cRMU6JLg7sz2UFWtirHLTUcpDhvo\nd2Wbs2+n16y7xgXPimLnSu9xV5fCmtBt52hQPp7oskfmJEpAXPf9x0R+b7Nt2X7G\ng8OIARA4YEKrofeSFtuek32EnOptHBHs9yagC8mDmtnLoyc6zmXgjP1orBoPUAlJ\ng3VxjIMZRVaj2UVs+YMRqi3xBnAIJSPNZ7xKZG26cemT6RZIfyv3hltvWjJNqlsa\n8Px2gfa3ZIX4eYxY33w+vtPq9o2ILgJeh+wHC5nddnJD87U402ju3ggvuP7MA7VS\n2JC1guklAgMBAAECggEABWVP04PwzPLWTh7GgyFDeYUJ46Ky90TLOlvOk4TKNQ78\nqqsnY99fSrvC7ECfDwzIw7Z22HkJPnMrm1JkThAPglsGpt4r33bZ/PtV7OfAiMpN\n06+G282xuIx5AQJWXIllnKGaItYENn7uZ9a+3O1yEHanhR1QvOfZ4cNL7Fc1jByJ\nfZIJryygK9/J5f273x0Iix1UXDWIciVWoOw0dJTFddu8onJv8TuSDiCHCKRUvsnW\nqCyws/x6p1K+AxrS9aHOUTHwjBW/mqBqAuwZYfRbzZMiCuhJwaLEtauqrzMjPQZ1\nJgkh6ZjQ3JzprkxR6sU3XTVaYropxxxMkCUdEj7fyQKBgQDM/5JIWLhuFdh9f+jx\nth7bnke7RrQ2qOXrhXnT7kur2yfkJ4I1Uo3qlR7+K3G8LJs8Se2xH9Pc95VFoZX+\n7f18YuiYZ2O5ZdT3MwZHhWtskoy9wdbenWW95VZii4wRC40IOC9Dm+4pyk5gYFWA\npDaviNxQ4fsz9k5c98RHPvl+KQKBgQDL/s3hmCXvQHiQiG/9EWUbfgkge8xZ0JO1\n9o29cm8LnaUAdnpRJ6JYR0IsLKi7LOuQD1Xe+dIX+8k8ZlsBxszJNoLjdeh+1VLv\nUosWnex/cwyC8FI+V4PBMdXogRxxaRA84L9fGcF3l7iqTKGjlb/cUrwFZ2XOtHf6\nYGFG93l6nQKBgHAgIdzcWhQscrtCKSF8IaiyDD4M0ClNfGS0HwyiPFWFi24phfiw\nbNswMUGIda8dHtN9BDtrUzB7YvQxC5/igFF2sA4cDtmrLy7+g6K/ASDjj4OC8InW\nwX16YSOJfFUeYkdqo79xHHVTKEdiqaGxMBAW5Zp/4CxtvjLvejYV5dTxAoGAF1Bd\ns0SyQS+7F7mgIuoUBhpXbLD5X+Jon0k4Vch4THmN3AmuXQwMj85FD8ti1VGC8onu\nJHekvTz3eMGx8PgJe42RU/GryqMSwWtLniAaYU6CxYw1ug5CbpgFfHcVCxkY0/xT\nosjMxaA/aKctaga5ULLb7jos9nzFoYXWWEf8SDkCgYEAl9LMZRyNcXFwZr3MmnvK\nP90U9mOiUf0YUJmO/gC+YWAqyTMpm4pl2E6rPje7uUdueO9ky1EohaU59yAKDljw\nWFE7/vbFjvN190Dn1dcqRfubxZQxXoWAngD3bGnSvWOM2zv+b8/mO47zcKwQui/b\nCaV8RNtdj7TArZAlSdrJ2ss=\n-----END PRIVATE KEY-----\n",
+  "client_email": "jepretgram-srohimah-com@first-deploy-198005.iam.gserviceaccount.com",
+  "client_id": "100907069209014849782",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jepretgram-srohimah-com%40first-deploy-198005.iam.gserviceaccount.com"
+}
