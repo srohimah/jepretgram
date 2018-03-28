@@ -1,4 +1,5 @@
 const Photo = require('../models/photo.model')
+const User = require('../models/user.model')
 module.exports = {
   showPhoto (req, res){
     Photo.find().then(photo=>{
